@@ -36,11 +36,15 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h3>A LITTLE OF MY WORK </h3>
   <code><img height="100" src="" alt=""></code>  
-  <h4>Mockup</h4>
-  <code><img height="100" src="" alt=""></code>  
-  <h4>Programming</h4>
-  <h5>I Use HTML/CSS/JS</h5>
-  <code><img height="100" src="" alt=""></code>  
+  <h4>MOCKUP <img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"></h4> 
+  <h5>WIREFRAME</h5>
+  <code><img height="600" src="wireframe.jpg" alt="WIREFRAME"></code>  
+  <h5>FINAL PRODUCT</h5>
+  <code><img height="600" src="mockup-travel-agençy.jpg" alt="MOCKUP-DESKTOP"></code>  
+  <code><img height="600" src="mk-mobile-2.jpg" alt="MOCKUP-MOBILE"></code>   
+<h4>Programming <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></h4>
   <h4>Final Product</h4>
   <h5>MOBILE</h5>
   <code><img height="100" src="" alt=""></code>  
