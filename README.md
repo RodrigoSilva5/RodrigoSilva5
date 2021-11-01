@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
   <h5>MOBILE</h5>
   <code><img height="600" src="mobile.gif" alt="mobile.gif"></code>  
   <h5>DESKTOP</h5>
-  <code><img height="600" src="desktop.gif" alt="desktop gif"></code>
+  <code><img src="desktop.gif" alt="desktop gif"></code>
   <h5>TABLETS</h5>
   <code><img height="600" src="TABLET.gif" alt="tablets gif"></code>  
 </div>
