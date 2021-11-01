@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h3 width="30px"><strong>A LITTLE OF MY WORK </strong></h3>
   <code><img src="desktop.gif" alt="desktop gif"></code>  
-  <h4><a href="#">You can check the code</a></h4> 
+  <h4><a href="https://github.com/RodrigoSilva5/Travel-Agency-Landing-Page">You can check the code here</a></h4> 
   <h4>MOCKUP <img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"></h4> 
   <h5>WIREFRAME</h5>
   <code><img height="600" src="wireframe.jpg" alt="WIREFRAME"></code>  
