@@ -34,8 +34,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">
-  <h3>A LITTLE OF MY WORK </h3>
-  <code><img height="100" src="" alt=""></code>  
+  <h3 width="30px"><strong>A LITTLE OF MY WORK </strong></h3>
+  <code><img src="desktop.gif" alt="desktop gif"></code>  
+  <h4><a href="#">You can check the code</a></h4> 
   <h4>MOCKUP <img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma"></h4> 
   <h5>WIREFRAME</h5>
   <code><img height="600" src="wireframe.jpg" alt="WIREFRAME"></code>  
@@ -47,11 +48,11 @@ You can click the Preview link to take a look at your changes.
 <img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></h4>
   <h4>Final Product</h4>
   <h5>MOBILE</h5>
-  <code><img height="100" src="" alt=""></code>  
+  <code><img height="600" src="mobile.gif" alt="mobile.gif"></code>  
   <h5>DESKTOP</h5>
-  <code><img height="100" src="" alt=""></code>
+  <code><img height="600" src="desktop.gif" alt="desktop gif"></code>
   <h5>TABLETS</h5>
-  <code><img height="100" src="" alt=""></code>  
+  <code><img height="600" src="TABLET.gif" alt="tablets gif"></code>  
 </div>
 
 
