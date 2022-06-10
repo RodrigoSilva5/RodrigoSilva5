@@ -58,11 +58,11 @@ You can click the Preview link to take a look at your changes.
  
   <h4>Final Product</h4>
   <h5>MOBILE</h5>
-  <code><img height="600" src="mobile.gif" alt="mobile.gif"></code>  
+  <code><img height="600" src="" alt=""></code>  
   <h5>DESKTOP</h5>
-  <code><img src="desktop.gif" alt="desktop gif"></code>
+  <code><img src="" alt=""></code>
   <h5>TABLETS</h5>
-  <code><img height="600" src="TABLET.gif" alt="tablets gif"></code>  7
+  <code><img height="600" src="" alt=""></code> 
  
  
 </div>
