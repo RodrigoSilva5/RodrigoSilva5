@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <h3 width="30px"><strong>A LITTLE OF MY WORK </strong></h3>
-  <code><img src="desktop.gif" alt=" "></code> 
+  <code><img src="gif-telaprincipal.gif" alt=" "></code> 
  
   <h5>FINAL PRODUCT</h5>
  
