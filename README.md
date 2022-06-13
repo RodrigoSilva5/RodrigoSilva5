@@ -58,12 +58,11 @@ You can click the Preview link to take a look at your changes.
  
   <h4>Final Product</h4>
   <h5>MOBILE</h5>
-  <code><img height="600" src="" alt=""></code>  
+  <code><img height="600" src="mobile-2022-06-10_18.33.09.gif" alt=""></code>  
   <h5>DESKTOP</h5>
-  <code><img src="" alt=""></code>
-  <h5>TABLETS</h5>
-  <code><img height="600" src="" alt=""></code> 
- 
+  <code><img src="mockup-telaprincipal.png" alt=""></code>
+  <h5>Dashboard</h5>
+  <code><img src="dashboard.png" alt=""></code>
  
 </div>
 
