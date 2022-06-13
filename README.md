@@ -46,16 +46,6 @@ You can click the Preview link to take a look at your changes.
   <h3 width="30px"><strong>A LITTLE OF MY WORK </strong></h3>
   <code><img src="gif-telaprincipal.gif" alt=" "></code> 
  
-  <h5>FINAL PRODUCT</h5>
- 
- 
-<h4>Programming <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
- 
-<img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></h4>
- 
- 
- 
   <h4>Final Product</h4>
   <h5>MOBILE</h5>
   <code><img height="600" src="mobile-2022-06-10_18.33.09.gif" alt=""></code>  
